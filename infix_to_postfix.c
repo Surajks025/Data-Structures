@@ -1,3 +1,4 @@
+//Infix to Postfix using stack
 #include <stdio.h>
 #include <string.h>
 char stk[50];
